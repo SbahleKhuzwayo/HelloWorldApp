@@ -1,6 +1,6 @@
 # HelloWorldApp 🚀
 
-A simple console application built using C# (or Python depending on your project) as part of my GitHub Copilot training exercise.
+A simple console application built using Python as part of my GitHub Copilot training exercise.
 
 ## 📌 Project Overview
 This project demonstrates:
@@ -10,7 +10,7 @@ This project demonstrates:
 - Understanding development workflow with version control
 
 ## 🛠 Technologies Used
-- C# / Python
+- Python
 - .NET SDK (if C#)
 - Git & GitHub
 - Visual Studio Code
