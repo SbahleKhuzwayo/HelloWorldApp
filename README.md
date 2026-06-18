@@ -11,13 +11,8 @@ This project demonstrates:
 
 ## 🛠 Technologies Used
 - Python
-- .NET SDK (if C#)
 - Git & GitHub
 - Visual Studio Code
 - GitHub Copilot
 
-## ▶️ How to Run
 
-### For C#:
-```bash
-dotnet run
